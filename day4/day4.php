@@ -189,4 +189,4 @@
     // Day4_Part1($grid);
     Day4_Part2($grid);
 
-    printf("%0.3f msec\n", microtime(true) - $start);
+    printf("%0.3f sec\n", microtime(true) - $start);
